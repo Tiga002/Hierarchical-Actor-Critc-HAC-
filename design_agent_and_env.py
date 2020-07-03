@@ -1,5 +1,6 @@
 """
-This file provides the template for designing the agent and environment.  The below hyperparameters must be assigned to a value for the algorithm to work properly.  
+This file provides the template for designing the agent and environment.  
+The below hyperparameters must be assigned to a value for the algorithm to work properly.  
 """
 
 import numpy as np
